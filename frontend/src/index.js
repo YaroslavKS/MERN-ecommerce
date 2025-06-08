@@ -11,7 +11,7 @@ root.render(
   </React.StrictMode>
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+// Зупинився на тому що не хочу засмічувати цей файл, додав пейджеси, роутери ще не додав, треба може ще якийсь файл винести щоб індекс джс основний був чистий, прописати архітектуру роутерів і подумати як зберегти код чистим 
