@@ -1,0 +1,9 @@
+.login-page {
+  height: 100vh;
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+}
+
+.login-form {
+  max-width: 400px;
+  width: 100%;
+}
