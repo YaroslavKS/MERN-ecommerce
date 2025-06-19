@@ -1,3 +1,16 @@
 .cart-page {
   min-height: 70vh;
 }
+
+.cart-page .table th,
+.cart-page .table td {
+  vertical-align: middle;
+}
+
+.cart-page h2 {
+  font-size: 2rem;
+}
+
+.cart-page button:hover {
+  opacity: 0.9;
+}

@@ -1,9 +1,16 @@
 .login-page {
-  height: 100vh;
+  min-height: 100vh;
   background: linear-gradient(to right, #6a11cb, #2575fc);
 }
 
 .login-form {
-  max-width: 400px;
-  width: 100%;
+  max-width: 100%;
+}
+
+.login-form input:focus {
+  box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+}
+
+.login-form button:hover {
+  opacity: 0.95;
 }
